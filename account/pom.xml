@@ -33,7 +33,7 @@
         <dependency>
             <groupId>com.wk</groupId>
             <artifactId>seata-rpc</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.0.1</version>
         </dependency>
 
         <dependency>
